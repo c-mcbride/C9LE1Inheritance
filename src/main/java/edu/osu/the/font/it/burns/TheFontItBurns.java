@@ -12,6 +12,6 @@ package edu.osu.the.font.it.burns;
 public class TheFontItBurns {
 
     public static void main(String[] args) {
-        System.out.println("The font it burns!");
+        System.out.println("The font it burns! My eyes!");
     }
 }
